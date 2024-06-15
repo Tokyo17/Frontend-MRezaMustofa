@@ -4,8 +4,8 @@ Using React 18.2.0 Version
 
 
 
-Pada project ini saya membuat semacam list rekomendasi restaurat.Untuk styling saya menggunakan [Taildwind](https://tailwindcss.com/).
-Berikut Link [Demo](https://666d8271a47b0ad771485512--funny-sprite-571a48.netlify.app/) dari technical test React Js Developer
+Pada project ini saya membuat list rekomendasi restaurat.Untuk styling saya menggunakan [Taildwind](https://tailwindcss.com/).
+Berikut Link [Demo](https://666d8d9c273aa9c02c03b3d7--fanciful-cuchufli-30a3c4.netlify.app/) dari technical test.
 Pada project ini menggunakan API restaurant yang saya buat menggunakan graphQL kemudian saya ubah ke API public :
 
 API
